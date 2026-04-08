@@ -1,7 +1,7 @@
 # Uber Price Prediction using Machine Learning
 
 ## Project Description
-This project predicts Uber ride fares using machine learning techniques based on factors such as distance, time, and demand. It simulates dynamic pricing strategies used in real-world ride-hailing systems and provides insights into fare estimation using regression models..
+This project predicts Uber ride fares using machine learning techniques based on factors such as distance, time, and demand. It simulates dynamic pricing strategies used in real-world ride-hailing systems and provides insights into fare estimation using regression models.
 
 ## Tech Stack
 - Python  
